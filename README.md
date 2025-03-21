@@ -8,13 +8,13 @@
 
 <br>
 
-- 🔭 I’m currently working as Programmer.
+- 🔭 I’m currently working as a System Developer.
 
-- 🌱 I’m currently Working on EyecatcherPhotography Website
+- 🌱 I’m currently Working on Content Management System
   
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning .NET CORE 8 & React
+- 🌱 I’m currently learning .NET CORE 8 & React Native
 
 - 📫 How to reach me **edsonpaul98@gmail.com**
   
